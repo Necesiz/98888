@@ -6,4 +6,4 @@
 
 ### Deploy to Heroku 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bkaanozsr1/TG_Music_Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bkaanozsr1/TG_Song.Bot)
